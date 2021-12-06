@@ -54,4 +54,3 @@ Com o desenvolvimento foi percebido que os modelos de regressão utilizados são
 Vale ressaltar que, de fato, bairros mais próximo ao literal tendem a ter um maior valor médio e a maioria dos Airbnb se enquadram em um Cluster de preço que vão até o máximo R$ 1.000 o valor da diária. 
 
 Estas análises tem muito valor tanto para quem quer viajar e encontrar um bom lugar com o melhor preço e para pessoas que pretendem colocar seu apartamento ou casa para locação no Airbnb saber a média de preço que ele pode cobrar de acordo com as características da locação. 
-<div align="center">Work in progress</div>
