@@ -47,5 +47,11 @@ Dentre a infinidade de métodos de regressão que existem, foi utilizado a **Reg
 
 ### Resultados
 <a id='5. Resultados'></a>
+Como podemos perceber, o modelo de Regressão Linear em comparação com o modelo de Random Forest gerado é um bom modelo para predição de preços da diária de Airbnbs na cidade do Rio de Janeiro. Além disso, as features *bathrooms, bedrooms,accommodates, latitude e longitude* são as features mais importantes para o nosso modelo. 
 
+Com o desenvolvimento foi percebido que os modelos de regressão utilizados são altamente influenciados por outliers, uma informação que ajudaria a resolver este problema seria o tamanho da locação, pois algumas locações possuem a mesma quantidade de banheiros, quartos, cama e localização porém se diferem no tamanho da propriedade o que acaba gerando uma grande discrepância nos preços - informação que não é repassada diretamente no dataset - entretando, quando limitados os preços para até R$2.000 reais temos um desempenho melhor na generalização do modelo. 
+
+Vale ressaltar que, de fato, bairros mais próximo ao literal tendem a ter um maior valor médio e a maioria dos Airbnb se enquadram em um Cluster de preço que vão até o máximo R$ 1.000 o valor da diária. 
+
+Estas análises tem muito valor tanto para quem quer viajar e encontrar um bom lugar com o melhor preço e para pessoas que pretendem colocar seu apartamento ou casa para locação no Airbnb saber a média de preço que ele pode cobrar de acordo com as características da locação. 
 <div align="center">Work in progress</div>
